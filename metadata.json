@@ -1,0 +1,10 @@
+{
+  "name": "Usagyuuun VTuber Experience",
+  "description": "A high-energy, real-time interactive VTuber app featuring the hyper-active rabbit Usagyuuun. Talk, chat, and watch Usagyuuun vibrate with excitement using the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
